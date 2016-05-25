@@ -1,5 +1,5 @@
 # Saba
 test my new project
 
-select table
+select table Saba
 
